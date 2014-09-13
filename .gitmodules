@@ -1,0 +1,3 @@
+[submodule "win/repo"]
+	path = win/repo
+	url = https://github.com/weijia/salt-winrepo.git
